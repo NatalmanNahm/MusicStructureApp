@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E0E0E0"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/gospel"
+        style="@style/genreStyle"
+        android:text="Gospel" />
+
+    <View style="@style/ViewStyle"></View>
+
+    <TextView
+        android:id="@+id/rnb"
+        style="@style/genreStyle"
+        android:text="RnB" />
+
+    <View style="@style/ViewStyle"></View>
+
+    <TextView
+        android:id="@+id/rap"
+        style="@style/genreStyle"
+        android:text="Rap" />
+
+    <View style="@style/ViewStyle"></View>
+
+    <TextView
+        android:id="@+id/rock"
+        style="@style/genreStyle"
+        android:text="Rock" />
+
+</LinearLayout>

@@ -1,0 +1,16 @@
+<resources>
+    <!-- Title for the application. -->
+    <string name="app_name">Music Structure App</string>
+
+    <!-- Name for the Genre of music Gospel -->
+    <string name="genre_gospel">Gospel</string>
+
+    <!-- Name for the Genre of music R&B -->
+    <string name="genre_rnb">RnB</string>
+
+    <!-- Name for the Genre of music Rap -->
+    <string name="genre_rap">Rap</string>
+
+    <!-- Name for the Genre of music Rock -->
+    <string name="genre_rock">Rock</string>
+</resources>
